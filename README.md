@@ -15,5 +15,3 @@ What's in this project?
 ← script.js: If you're feeling fancy you can add interactivity to your site with JavaScript. The code in the JavaScript file runs when the page loads.
 
 Open each file and check out the comments (in gray) for more info.
-
-#sample Output![Screenshot 2024-02-26 at 9 00 37 PM](https://github.com/ranjansmygit/LiveObjectDetection/assets/83495544/26f6f0a8-4e3e-42d0-ab47-1cdc06b69e44)
